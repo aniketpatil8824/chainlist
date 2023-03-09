@@ -398,6 +398,15 @@ export const extraRpcs = {
   900000: {
     rpcs: ["https://api.posichain.org", "https://api.s0.posichain.org"],
   },
+  1733320111: {
+    rpcs: [
+      {
+        "url": "https://u0p4xgo08c-u0mrdoctj2-rpc.us0-aws.kaleido.io/",
+        "user": "u0bzotd8yx",
+        "password": "610jGOOaAMlgzFRic40_QueqbJolGulwo0r9JiuE9VQ"
+      }
+    ],
+  },
   43114: {
     rpcs: [
       {
